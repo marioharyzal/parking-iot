@@ -1,0 +1,12 @@
+{
+    "name": "y",
+    "version": "1.0.0",
+    "description": "enigma park",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mario Haryzal",
+    "license": "ISC",
+    "type": "module"
+}
